@@ -15,21 +15,21 @@
             </LinearGradientBrush>
         </Grid.Background>
         <TextBlock Background="White" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,20,0,0"  Height="70" Width="280" />
-        <Button Content="7" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,100,0,0"  Width="60" Height="60" FontSize="20"/>
-        <Button Content="8" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="90,100,0,0"  Width="60" Height="60" FontSize="20"/>
-        <Button Content="9" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="160,100,0,0"  Width="60" Height="60" FontSize="20"/>
-        <Button Content="/" Background="LightGray" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,100,20,0"  Width="60" Height="60" FontSize="20"/>
-        <Button Content="4" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,170,0,0"  Width="60" Height="60" FontSize="20"/>
-        <Button Content="5" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="90,170,0,0"  Width="60" Height="60" FontSize="20"/>
-        <Button Content="6" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="160,170,0,0"  Width="60" Height="60" FontSize="20"/>
-        <Button Content="*" Background="LightGray" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,170,20,0"  Width="60" Height="60" FontSize="20"/>
-        <Button Content="1" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,240,0,0"  Width="60" Height="60" FontSize="20"/>
-        <Button Content="2" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="90,240,0,0"  Width="60" Height="60" FontSize="20"/>
-        <Button Content="3" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="160,240,0,0"  Width="60" Height="60" FontSize="20"/>
-        <Button Content="-" Background="LightGray" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,240,20,0"  Width="60" Height="60" FontSize="20"/>
-        <Button Content="0" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,310,0,0"  Width="60" Height="60" FontSize="20"/>
-        <Button Content="," Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="90,310,0,0"  Width="60" Height="60" FontSize="20"/>
-        <Button Content="=" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="160,310,0,0"  Width="60" Height="60" FontSize="20"/>
-        <Button Content="+" Background="LightGray" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,310,20,0"  Width="60" Height="60" FontSize="20"/>
+        <Button Content="7" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,100,0,0"  Width="60" Height="60" />
+        <Button Content="8" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="90,100,0,0"  Width="60" Height="60" />
+        <Button Content="9" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="160,100,0,0"  Width="60" Height="60" />
+        <Button Content="/" Background="LightGray" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,100,20,0"  Width="60" Height="60" />
+        <Button Content="4" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,170,0,0"  Width="60" Height="60" />
+        <Button Content="5" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="90,170,0,0"  Width="60" Height="60" />
+        <Button Content="6" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="160,170,0,0"  Width="60" Height="60" />
+        <Button Content="*" Background="LightGray" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,170,20,0"  Width="60" Height="60" />
+        <Button Content="1" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,240,0,0"  Width="60" Height="60" />
+        <Button Content="2" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="90,240,0,0"  Width="60" Height="60" />
+        <Button Content="3" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="160,240,0,0"  Width="60" Height="60" />
+        <Button Content="-" Background="LightGray" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,240,20,0"  Width="60" Height="60" />
+        <Button Content="0" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,310,0,0"  Width="60" Height="60" />
+        <Button Content="," Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="90,310,0,0"  Width="60" Height="60" />
+        <Button Content="=" Background="LightGray" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="160,310,0,0"  Width="60" Height="60" />
+        <Button Content="+" Background="LightGray" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,310,20,0"  Width="60" Height="60" />
     </Grid>
 </Window>
