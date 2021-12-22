@@ -6,12 +6,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp_Task1"
         mc:Ignorable="d"
-        Title="Калькулятор" FontSize="20" Height="430" Width="340" Margin="10,10,10,10" Background="#FF3F3F46">
+        Title="Калькулятор" Height="430" Width="340" Margin="10,10,10,10" Background="#FF3F3F46" FontSize="20">
     <Grid Margin="5" >
         <Grid.Background>
             <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
-                <GradientStop Color="#FF0067FD" Offset="0"/>
-                <GradientStop Color="#FFDDE2FB" Offset="1"/>
+                <GradientStop Color="#FF1357E7" Offset="0"/>
+                <GradientStop Color="#FFFAFAFE" Offset="1"/>
             </LinearGradientBrush>
         </Grid.Background>
         <TextBlock Background="White" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,20,0,0"  Height="70" Width="280" />
